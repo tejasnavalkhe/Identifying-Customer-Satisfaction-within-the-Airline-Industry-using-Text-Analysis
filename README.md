@@ -1,5 +1,21 @@
 # CSC8635-Machine-Learning
 
+• Designed and deployed Machine Learning models for Twitter sentiment analysis, utilising Decision Tree Classifier, Random Forest Classifier, Logistic Regression and Support Vector Machine Classifier.
+
+• Plotted WordClouds to analyse dataset for each sentiment category: positive, neutral, and negative.
+
+• To improve model accuracy, Removed English stop words, punctuation, usernames, repeated words, and links.
+
+• Utilised Lemmatization technique to standardise and reduce words, aiding in the extraction of core meanings.
+
+• Implemented Tokenization to break tweets into individual tokens, facilitating the extraction of meaningful features.
+
+• Implemented a pipeline incorporating natural language processing (NLP) algorithms for text classification, achieving higher accuracy with techniques such as TF-IDF.
+
+• Conducted F1-score evaluation to assess model performance, achieving 78% accuracy with a Support Vector Machine classifier.
+
+
+
 ## Data:
 
 The data for **Twitter Sentiment Analysis** can be found in the `"Text"` folders, while the **weather data** is located in the `"Time Series"` folders.
