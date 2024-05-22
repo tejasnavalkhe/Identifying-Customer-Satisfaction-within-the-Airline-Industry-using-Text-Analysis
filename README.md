@@ -1,5 +1,9 @@
 # CSC8635-Machine-Learning
 
+#### Task 1: Identifying Customer Satisfaction within the Airline Industry using Text Analysis
+
+#### Task 2: Time Series
+
 • Designed and deployed Machine Learning models for Twitter sentiment analysis, utilising Decision Tree Classifier, Random Forest Classifier, Logistic Regression and Support Vector Machine Classifier.
 
 • Plotted WordClouds to analyse dataset for each sentiment category: positive, neutral, and negative.
